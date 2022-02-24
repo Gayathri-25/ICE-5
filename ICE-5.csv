@@ -1,0 +1,21 @@
+SL NO,REFUND,marital,TAXABLE INCOME
+1,yes,single,>80k
+2,no,married,>80k
+3,no,single,<80k
+4,yes,married,>80k
+5,no,divorced,>80k
+6,no,married,<80k
+7,yes,divorced,>80k
+8,no,single,>80k
+9,no,maried,>80k
+10,no,single,>80k
+11,yes,single,<80k
+12,no,married,<80k
+13,no,married,>80k
+14,no,single,<80k
+15,yes,married,<80K
+16,yes,single,>80k
+17,no,married,>80k
+18,no,single,>80k
+19,yes,married,<80k
+20,yes,single,<80k
